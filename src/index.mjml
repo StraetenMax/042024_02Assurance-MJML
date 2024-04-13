@@ -30,12 +30,12 @@
     </mj-head>
     <mj-body background-color="#edf2f7">
     <!--Hero-->
-        <mj-section>
+        <mj-section padding="0">
             <mj-column width="600px">
-                <mj-image src="src/img/heroAssurance.jpg" alt="" />
+                <mj-image padding="0" src="src/img/heroAssurance.jpg" alt="" />
             </mj-column>
         </mj-section>
-        <mj-section>
+        <mj-section mj-class="Dsection">
             <mj-column width="580px">
             <mj-text>
                 
@@ -46,7 +46,7 @@
         </mj-column>
         </mj-section>
     <!-- Article 2-->
-        <mj-section>
+        <mj-section mj-class="Dsection">
     <!-- art 2a-->
             <mj-column width="300px">
             <mj-image fluid-on-mobile="true" src="src/img/emploiAssurance01.jpg" alt="" />
@@ -69,7 +69,7 @@
         </mj-column>
         </mj-section>
     <!--Article 3-->
-        <mj-section>
+        <mj-section mj-class="Dsection">
     <!--art 3a-->
         <mj-column width="200px">
             <mj-image fluid-on-mobile="true" src="src/img/emploiAssurance03.jpg" alt="" />
