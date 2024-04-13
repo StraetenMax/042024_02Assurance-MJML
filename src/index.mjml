@@ -18,7 +18,7 @@
             <mj-class name="Dsstitle" font-size="16px" font-weight="700" line-height="20px" color="#A83163"/>
             <mj-class name="Dtext" font-size="16px" font-weight="400" line-height="20px" color="#2D3748"/>
             <mj-class name="Dfooter" font-size="12px" font-weight="400" line-height="16px" color="#2D3748"/> 
-            <mj-class name="Dspace" align="center" padding-top="0" padding-bottom="0"/>
+            <mj-class name="Dspace" padding-top="0" padding-bottom="0"/>
             <mj-button font-size="16px" font-weight="500" line-height="20px" background-color="#ec619f" color="#ffffff"></mj-button>  
         </mj-attributes>
         <mj-breakpoint width="550px" />
@@ -28,7 +28,7 @@
             }
         </mj-style>
     </mj-head>
-    <mj-body background-color="#edf2f7">
+    <mj-body background-color="#ffffff">
     <!--Hero-->
         <mj-section padding="0">
             <mj-column width="600px">
@@ -48,9 +48,9 @@
     <!-- Article 2-->
         <mj-section mj-class="Dsection">
     <!-- art 2a-->
-            <mj-column width="300px">
-            <mj-image fluid-on-mobile="true" src="src/img/emploiAssurance01.jpg" alt="" />
-            <mj-text>
+            <mj-column width="300px" padding="8px">
+            <mj-image padding="0" fluid-on-mobile="true" src="src/img/emploiAssurance01.jpg" alt="" />
+            <mj-text padding="0">
                 poste :
             </mj-text>
             <mj-button>
@@ -58,10 +58,13 @@
             </mj-button>
         </mj-column>
     <!--art 2b-->
-        <mj-column width="300px">
-            <mj-image fluid-on-mobile="true" src="src/img/emploiAssurance02.jpg" alt="" />
-            <mj-text>
+        <mj-column width="300px"padding="8px">
+            <mj-image padding="0px" fluid-on-mobile="true" src="src/img/emploiAssurance02.jpg" alt="" />
+            <mj-text padding="0">
                 poste :
+            </mj-text>
+            <mj-text padding="0">
+                missions :
             </mj-text>
             <mj-button>
                 ça m'intéresse
@@ -71,32 +74,41 @@
     <!--Article 3-->
         <mj-section mj-class="Dsection">
     <!--art 3a-->
-        <mj-column width="200px">
-            <mj-image fluid-on-mobile="true" src="src/img/emploiAssurance03.jpg" alt="" />
-            <mj-text>
-                poste :
+        <mj-column width="200px" padding="8px">
+            <mj-image padding="0" fluid-on-mobile="true" src="src/img/emploiAssurance03.jpg" alt="" />
+            <mj-text padding="0" mj-class="Dsstitle">
+                Poste : <span style="text-transform:uppercase;"> Assistant(e) conseiller(e) commercial(e)</span>
             </mj-text>
-            <mj-button>
+            <mj-text padding="0" mj-class="Dtext Dspace">
+                Missions : Assister les conseillers commerciaux de l'agence dans l'accueil du public. Faire des campagnes de relance appels clients afin d'organiser des rendez-vous clientèle.
+            </mj-text>
+            <mj-button width="100%" padding="0">
                 ça m'intéresse
             </mj-button>
         </mj-column>
     <!--art 3b-->
-        <mj-column width="200px">
-            <mj-image fluid-on-mobile="true" src="src/img/emploiAssurance04.jpg" alt="" />
-            <mj-text>
-                poste :
+        <mj-column width="200px" padding="8px">
+            <mj-image padding="0" fluid-on-mobile="true" src="src/img/emploiAssurance04.jpg" alt="" />
+            <mj-text mj-class="Dtext Dspace" padding="0">
+                poste : Gestionnaire technique de contrats (Production)
             </mj-text>
-            <mj-button>
+            <mj-text mj-class="Dtext Dspace" padding="0">
+                Missions: Rédiger et émettre les contrats et avenants après analyse des risques, dans le respect des instructions techniques et des procédures, puis en assurer le suivi dans un souci
+            </mj-text>
+            <mj-button  width="100%" padding="0">
                 ça m'intéresse
             </mj-button>
         </mj-column>
     <!--art 3c-->
-        <mj-column width="200px">
-            <mj-image fluid-on-mobile="true" src="src/img/emploiAssurance05.jpg" alt="" />
-            <mj-text>
-                poste :
+        <mj-column width="200px" padding="8px">
+            <mj-image padding="0" fluid-on-mobile="true" src="src/img/emploiAssurance05.jpg" alt="" />
+            <mj-text padding="0" mj-class="Dtext Dspace">  
+                poste : Conseiller(e) 
             </mj-text>
-            <mj-button>
+            <mj-text padding="0" mj-class="Dtext Dspace">
+                mission : Accueil du public. Orientation des clients et répondre (mails, téléphone et physique) aux demandes clients.
+            </mj-text>
+            <mj-button padding="0" width="1oo%">
                 ça m'intéresse
             </mj-button>
         </mj-column>
@@ -117,28 +129,28 @@
             </mj-column>
         </mj-section>
         <!--Adresse-->
-        <mj-section padding-bottom="0">
+        <mj-section padding-bottom="0" background-color="#edf2f7">
             <mj-column  width="235px">
                 <mj-image padding="0px" width="120px" src="https://img.mailinblue.com/3403292/images/content_library/original/660d606e373b24d832a39719.png" href="https://ecosup-campus.fr" alt="logo Ecosup Campus" />
-                <mj-text mj-class="Dfooter Dspace">
+                <mj-text align="center" mj-class="Dfooter Dspace">
                     17 place Charles et Albert Roussel
                 </mj-text>
-                <mj-text mj-class="Dfooter Dspace" text-transform="uppercase">
+                <mj-text align="center" mj-class="Dfooter Dspace" text-transform="uppercase">
                     59200 tourcoing
                 </mj-text>
             </mj-column>
         </mj-section>
         <!--Reglement-->
-        <mj-section>
+        <mj-section background-color="#edf2f7">
             <mj-column width="380px">
-            <mj-text mj-class="Dfooter Dspace">
+            <mj-text align="center" mj-class="Dfooter Dspace">
                 Pour être sûr(e) de recevoir nos communications, ajoutez contact@ecosup-campus.fr dans votre carnet d'adresses.
             </mj-text>
-            <mj-text mj-class="Dfooter Dspace">
-                Afficher dans votre navigateur
+            <mj-text align="center" mj-class="Dfooter Dspace">
+                <a href="{{ mirror }}">Afficher dans ton navigateur</a>
             </mj-text>
-                <mj-text mj-class="Dfooter Dspace">
-                    se désinscrire
+                <mj-text align="center" mj-class="Dfooter Dspace">
+                     <a href="{{ unsubscribe }}">se désinscrire</a>
                 </mj-text>
             </mj-column>
         </mj-section>
