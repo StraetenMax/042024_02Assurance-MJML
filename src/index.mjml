@@ -12,19 +12,26 @@
     <!--attributes-->
         <mj-attributes>
             <mj-all font-family="Roboto, Arial, Helvetica, sans-serif" />
-            <mj-class name="D_Title" font-size="36px" font-weight="300" line-height="40px" color="#A83163"/>
-            <mj-class name="D_SousTitle" font-size="16px" font-weight="700" line-height="20px" color="#A83163"/>
+            <mj-class name="D_Title" font-size="36px" font-weight="300" line-height="40px" color="#684092"/>
+            <mj-class name="D_SousTitle" font-size="16px" font-weight="700" line-height="20px" text-transform="uppercase" color="#684092"/>
             <mj-class name="D_Text" font-size="16px" font-weight="400" line-height="20px" color="#2D3748"/>
             <mj-class name="D_Footer" font-size="12px" font-weight="400" line-height="16px" color="#2D3748"/> 
             <mj-class name="D_RL" padding-top="0" padding-bottom="0"/>
             <mj-class name="D_RBL" padding-left="0" padding-right="0" padding-bottom="0"/>
-            <mj-button font-size="16px" font-weight="500" line-height="20px" background-color="#ec619f"></mj-button>  
+            <mj-button font-size="16px" font-weight="500" line-height="20px" background-color="#ba4995"></mj-button>  
         </mj-attributes>
         <mj-breakpoint width="550px" />
         <mj-style>
          .hover:hover td, .hover:hover a{ 
-                background-color:#a83163 !important;
+                background-color:#684092 !important;
             }
+        @media only screen and (max-width:550px){
+            .M_Padding {
+                padding-left:17px !important;
+                padding-right:17px !important;
+                padding-top:10px !important;
+            }
+        }
         </mj-style>
     </mj-head>
     <mj-body background-color="#ffffff">
@@ -69,27 +76,27 @@
         <mj-section background-color="#edf2f7">
     <!-- art 2a-->
             <mj-column width="300px" padding="8px">
-            <mj-image padding="0" fluid-on-mobile="true" src="src/img/emploiAssurance01.jpg" alt="Assistant(e) conseiller(e) commercial(e) en alternance" />
-            <mj-text mj-class="D_SousTitle D_RBL" text-transform="uppercase">
+            <mj-image css-class="M_Padding" padding="0" fluid-on-mobile="true" src="src/img/emploiAssurance01.jpg" alt="Assistant(e) conseiller(e) commercial(e) en alternance" />
+            <mj-text mj-class="D_SousTitle D_RBL" css-class="M_Padding">
                <span style="font-weight:300">poste :</span> Assistant(e) conseiller(e) commercial(e) et outils de communication digitaux
             </mj-text>
-            <mj-text mj-class="D_Text D_RBL" >
+            <mj-text mj-class="D_Text D_RBL" css-class="M_Padding">
                 <span style="text-transform:uppercase;font-weight:300">missions :</span> Assister les conseillers commerciaux dans le traitement des leads, les appels clients et l'organisation des rendez-vous. Mettre en oeuvre la communication digitale...
             </mj-text>
-            <mj-button css-class="hover" href="#">
+            <mj-button css-class="hover M_Padding" href="#">
                 ça m'intéresse
             </mj-button>
         </mj-column>
     <!--art 2b-->
         <mj-column width="300px"padding="8px">
-            <mj-image padding="0px" fluid-on-mobile="true" src="src/img/emploiAssurance02.jpg" alt="Gestionnaire Négociateur en alternance" />
-            <mj-text mj-class="D_SousTitle D_RBL" text-transform="uppercase">
+            <mj-image css-class="M_Padding" padding="0px" fluid-on-mobile="true" src="src/img/emploiAssurance02.jpg" alt="Gestionnaire Négociateur en alternance" />
+            <mj-text mj-class="D_SousTitle D_RBL" css-class="M_Padding">
                 <span style="font-weight:300">poste :</span> Gestionnaire Négociateur (sinistres)
             </mj-text>
-            <mj-text mj-class="D_Text D_RBL">
+            <mj-text mj-class="D_Text D_RBL" css-class="M_Padding">
                 <span style="font-weight:300;text-transform:uppercase;">missions :</span> Analyser, instruire et régler les dossiers sinistres dans les meilleures conditions de coût et de délai. Le ou la titulaire de la fonction "gestionnaire négociateur" exerce les principales activités suivantes...
             </mj-text>
-            <mj-button css-class="hover" href="#">
+            <mj-button css-class="hover M_Padding" href="#">
                 ça m'intéresse
             </mj-button>
         </mj-column>
@@ -98,40 +105,40 @@
         <mj-section background-color="#ffffff">
     <!--art 3a-->
         <mj-column width="200px" padding="8px">
-            <mj-image padding="0" fluid-on-mobile="true" src="src/img/emploiAssurance03.jpg" alt="Assistant(e) Conseiller(e) Commercial(e) en alternance" />
-            <mj-text mj-class="D_SousTitle D_RBL" text-transform="uppercase">
+            <mj-image css-class="M_Padding" padding="0" fluid-on-mobile="true" src="src/img/emploiAssurance03.jpg" alt="Assistant(e) Conseiller(e) Commercial(e) en alternance" />
+            <mj-text mj-class="D_SousTitle D_RBL" css-class="M_Padding">
                 <span style="font-weight:300;">Poste : </span>Assistant(e) conseiller(e) commercial(e)
             </mj-text>
-            <mj-text mj-class="D_Text D_RBL">
+            <mj-text mj-class="D_Text D_RBL" css-class="M_Padding">
                 <span style="font-weight:300;text-transform:uppercase;">Missions :</span> Assister les conseillers commerciaux dans l'accueil du public. Faire des campagnes de relance et des appels clients afin d'organiser des rendez-vous...
             </mj-text>
-            <mj-button width="100%" mj-class="D_RBL" css-class="hover" href="#">
+            <mj-button mj-class="D_RBL" css-class="hover M_Padding" href="#">
                 ça m'intéresse
             </mj-button>
         </mj-column>
     <!--art 3b-->
         <mj-column width="200px" padding="8px">
-            <mj-image padding="0" fluid-on-mobile="true" src="src/img/emploiAssurance04.jpg" alt="Gestionnaire technique de contrats en alternance"/>
-            <mj-text mj-class="D_SousTitle D_RBL" text-transform="uppercase">
+            <mj-image css-class="M_Padding" padding="0" fluid-on-mobile="true" src="src/img/emploiAssurance04.jpg" alt="Gestionnaire technique de contrats en alternance"/>
+            <mj-text mj-class="D_SousTitle D_RBL" css-class="M_Padding">
                 <span style="font-weight:300;">poste :</span> Gestionnaire technique de contrats
             </mj-text>
-            <mj-text mj-class="D_Text D_RBL">
+            <mj-text mj-class="D_Text D_RBL" css-class="M_Padding">
                 <span style="font-weight:300;text-transform:uppercase">Missions :</span> Rédiger et émettre les contrats et avenants après analyse des risques, dans le respect des instructions techniques et des procédures...
             </mj-text>
-            <mj-button width="100%" mj-class="D_RBL" css-class="hover" href="#">
+            <mj-button mj-class="D_RBL" css-class="hover M_Padding" href="#">
                 ça m'intéresse
             </mj-button>
         </mj-column>
     <!--art 3c-->
         <mj-column width="200px" padding="8px">
-            <mj-image padding="0" fluid-on-mobile="true" src="src/img/emploiAssurance05.jpg" alt="conseiller en alternance" />
-            <mj-text mj-class="D_SousTitle D_RBL" text-transform="uppercase">  
+            <mj-image css-class="M_Padding" padding="0" fluid-on-mobile="true" src="src/img/emploiAssurance05.jpg" alt="conseiller en alternance" />
+            <mj-text mj-class="D_SousTitle D_RBL" css-class="M_Padding">  
                 <span style="font-weight:300;">poste :</span> Conseiller(e) 
             </mj-text>
-            <mj-text mj-class="D_Text D_RBL">
+            <mj-text mj-class="D_Text D_RBL" css-class="M_Padding">
                 <span style="font-weight:300;text-transform:uppercase;">mission :</span> Accueil du public. Orientation des clients et répondre aux demandes des clients par mails, téléphone et physiquement. Participer à l'organisation des événements de l'agence. Relayer les opérations...
             </mj-text>
-            <mj-button width="100%" mj-class="D_RBL" css-class="hover" href="#">
+            <mj-button mj-class="D_RBL" css-class="hover M_Padding" href="#">
                 ça m'intéresse
             </mj-button>
         </mj-column>
@@ -141,7 +148,7 @@
         <mj-section background-color="#edf2f7">
             <mj-column width="380px">
                 <mj-text align="center" mj-class="D_SousTitle">
-                    Suivez-nous sur
+                    Suis-nous sur
                 </mj-text>
                 <mj-social inner-padding="0 20px" icon-size="25px" mode="horizontal">
                 <mj-social-element src="https://img.mailinblue.com/3403292/images/content_library/original/660d6047d0d41f3120a8cdec.png" href="https://fr.linkedin.com/company/ecosup-campus" alt="Linkedin"></mj-social-element>
