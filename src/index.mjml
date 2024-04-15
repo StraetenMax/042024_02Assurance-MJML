@@ -67,7 +67,7 @@
             <mj-text mj-class="D_Text" padding-bottom="0">
                 Tu as la volonté... nous avons le réseau !!!
             </mj-text>
-            <mj-button css-class="hover" href="#">
+            <mj-button css-class="hover" href="https://forms.gle/7FAghZJoE6jPcTRj9">
                 contacte-moi
             </mj-button>
         </mj-column>
@@ -83,7 +83,7 @@
             <mj-text mj-class="D_Text D_RBL" css-class="M_Padding">
                 <span style="text-transform:uppercase;font-weight:300">missions :</span> Assister les conseillers commerciaux dans le traitement des leads, les appels clients et l'organisation des rendez-vous. Mettre en oeuvre la communication digitale...
             </mj-text>
-            <mj-button css-class="hover M_Padding" href="#">
+            <mj-button css-class="hover M_Padding" href="https://ecosup-campus.fr/assistant-conseiller-commercial-outils-communication-digitaux">
                 ça m'intéresse
             </mj-button>
         </mj-column>
@@ -96,7 +96,7 @@
             <mj-text mj-class="D_Text D_RBL" css-class="M_Padding">
                 <span style="font-weight:300;text-transform:uppercase;">missions :</span> Analyser, instruire et régler les dossiers sinistres dans les meilleures conditions de coût et de délai. Le ou la titulaire de la fonction "gestionnaire négociateur" exerce les principales activités suivantes...
             </mj-text>
-            <mj-button css-class="hover M_Padding" href="#">
+            <mj-button css-class="hover M_Padding" href="https://ecosup-assurance.fr/gestionnaire-negociateur-sinistres">
                 ça m'intéresse
             </mj-button>
         </mj-column>
@@ -112,7 +112,7 @@
             <mj-text mj-class="D_Text D_RBL" css-class="M_Padding">
                 <span style="font-weight:300;text-transform:uppercase;">Missions :</span> Assister les conseillers commerciaux dans l'accueil du public. Faire des campagnes de relance et des appels clients afin d'organiser des rendez-vous...
             </mj-text>
-            <mj-button mj-class="D_RBL" css-class="hover M_Padding" href="#">
+            <mj-button mj-class="D_RBL" css-class="hover M_Padding" href="https://ecosup-campus.fr/assistant-conseiller-commercial">
                 ça m'intéresse
             </mj-button>
         </mj-column>
@@ -125,7 +125,7 @@
             <mj-text mj-class="D_Text D_RBL" css-class="M_Padding">
                 <span style="font-weight:300;text-transform:uppercase">Missions :</span> Rédiger et émettre les contrats et avenants après analyse des risques, dans le respect des instructions techniques et des procédures...
             </mj-text>
-            <mj-button mj-class="D_RBL" css-class="hover M_Padding" href="#">
+            <mj-button mj-class="D_RBL" css-class="hover M_Padding" href="https://ecosup-assurance.fr/gestionnaire-technique-contrats-production">
                 ça m'intéresse
             </mj-button>
         </mj-column>
@@ -152,8 +152,9 @@
                 </mj-text>
                 <mj-social inner-padding="0 20px" icon-size="25px" mode="horizontal">
                 <mj-social-element src="https://img.mailinblue.com/3403292/images/content_library/original/660d6047d0d41f3120a8cdec.png" href="https://fr.linkedin.com/company/ecosup-campus" alt="Linkedin"></mj-social-element>
-                <mj-social-element src="https://img.mailinblue.com/3403292/images/content_library/original/660d604fd0d41f3120a8cdf5.png" href="https://www.facebook.com/EcosupCamp" alt="Facebook"></mj-social-element>
+                <mj-social-element src="https://img.mailinblue.com/3403292/images/content_library/original/660d604fd0d41f3120a8cdf5.png" href="https://www.facebook.com/EcosupAssurance" alt="Facebook"></mj-social-element>
                 <mj-social-element src="https://img.mailinblue.com/3403292/images/content_library/original/660d605a373b24d832a3970d.png"  href="https://www.instagram.com/ecosup.campus" alt="Instagram"></mj-social-element>
+                <mj-social-element src="https://img.mailinblue.com/3403292/images/content_library/original/660d60657236a3846ef846ba.png" href="https://www.youtube.com/@EcoSupAssurance" alt="Youtube"></mj-social-element>
             </mj-social>
                 </mj-social>
             </mj-column>
@@ -174,13 +175,13 @@
         <mj-section background-color="#edf2f7">
             <mj-column width="380px">
             <mj-text align="center" mj-class="D_Footer D_RL">
-                Pour être sûr(e) de recevoir nos communications, ajoutez contact@ecosup-campus.fr dans votre carnet d'adresses.
+                Pour être sûr(e) de recevoir nos communications, ajoute contact@ecosup-campus.fr dans ton carnet d'adresses.
             </mj-text>
             <mj-text align="center" mj-class="D_Footer D_RL">
                 <a href="{{ mirror }}">Afficher dans ton navigateur</a>
             </mj-text>
                 <mj-text align="center" mj-class="D_Footer D_RL">
-                     <a href="{{ unsubscribe }}">se désinscrire</a>
+                     <a href="{{ unsubscribe }}">Se désinscrire</a>
                 </mj-text>
             </mj-column>
         </mj-section>
