@@ -155,7 +155,7 @@
         <mj-section background-color="#edf2f7">
     <!--art 4a-->
         <mj-column width="200px" padding="8px">
-            <mj-image css-class="M_Padding" padding="0" fluid-on-mobile="true" src="src/img/LetEmpAssu042024.jpg" alt="Assistant(e) Conseiller(e) Commercial(e) en alternance" />
+            <mj-image css-class="M_Padding" padding="0" fluid-on-mobile="true" src="https://img.mailinblue.com/3403292/images/content_library/original/66292a461e7293bb0ff882f6.jpg" alt="Assistant(e) Conseiller(e) Commercial(e) en alternance" />
             <mj-text mj-class="D_SousTitle D_RBL" css-class="M_Padding">
                 <span style="font-weight:300;">Poste : </span>Conseiller(ère) clientèle
             </mj-text>
@@ -168,7 +168,7 @@
         </mj-column>
     <!--art 4b-->
         <mj-column width="200px" padding="8px">
-            <mj-image css-class="M_Padding" padding="0" fluid-on-mobile="true" src="src/img/Let03EmpAssu042024.jpg" alt="Gestionnaire technique de contrats en alternance"/>
+            <mj-image css-class="M_Padding" padding="0" fluid-on-mobile="true" src="https://img.mailinblue.com/3403292/images/content_library/original/66292a6a39eb96a55f27701b.jpg" alt="Gestionnaire technique de contrats en alternance"/>
             <mj-text mj-class="D_SousTitle D_RBL" css-class="M_Padding">
                 <span style="font-weight:300;">poste :</span> Chargé(e) de clientèles professionnelles
             </mj-text>
@@ -181,7 +181,7 @@
         </mj-column>
     <!--art 4c-->
         <mj-column width="200px" padding="8px">
-            <mj-image css-class="M_Padding" padding="0" fluid-on-mobile="true" src="src/img/Let02EmpAssu042024.jpg" alt="conseiller en alternance" />
+            <mj-image css-class="M_Padding" padding="0" fluid-on-mobile="true" src="https://img.mailinblue.com/3403292/images/content_library/original/66292a771b84dcd22f4ff7ec.jpg" alt="conseiller en alternance" />
             <mj-text mj-class="D_SousTitle D_RBL" css-class="M_Padding">  
                 <span style="font-weight:300;">poste :</span> Conseiller(ère) clientèle 
             </mj-text>
