@@ -38,7 +38,7 @@
     <!--Hero-->
         <mj-section padding="0">
             <mj-column width="600px">
-                <mj-image padding="0" src="src/img/heroAssurance.jpg" alt="Ecosup Assurance : BTS et Bachelor, formations supérieures en alternance" />
+                <mj-image padding="0" src="https://img.mailinblue.com/3403292/images/content_library/original/661cc11be0b69fbf8afb0fe3.jpg" alt="Ecosup Assurance : BTS et Bachelor, formations supérieures en alternance" />
             </mj-column>
         </mj-section>
         <mj-section background-color="#ffffff">
@@ -84,7 +84,7 @@
         <mj-section background-color="#edf2f7">
     <!-- art 2a-->
             <mj-column width="300px" padding="8px">
-            <mj-image css-class="M_Padding" padding="0" fluid-on-mobile="true" src="src/img/EmAssurance05_042024.jpg" alt="Assistant(e) conseiller(e) commercial(e) en alternance" />
+            <mj-image css-class="M_Padding" padding="0" fluid-on-mobile="true" src="https://img.mailinblue.com/3403292/images/content_library/original/661cc127ad812a318f11ff22.jpg" alt="Assistant(e) conseiller(e) commercial(e) en alternance" />
             <mj-text mj-class="D_SousTitle D_RBL" css-class="M_Padding">
                <span style="font-weight:300">poste :</span> Assistant(e) conseiller(e) commercial(e) et outils de communication digitaux
             </mj-text>
@@ -97,7 +97,7 @@
         </mj-column>
     <!--art 2b-->
         <mj-column width="300px"padding="8px">
-            <mj-image css-class="M_Padding" padding="0px" fluid-on-mobile="true" src="src/img/EmAssurance03_042024.jpg" alt="Gestionnaire Négociateur en alternance" />
+            <mj-image css-class="M_Padding" padding="0px" fluid-on-mobile="true" src="https://img.mailinblue.com/3403292/images/content_library/original/661cc136e0b69fbf8afb0fe6.jpg" alt="Gestionnaire Négociateur en alternance" />
             <mj-text mj-class="D_SousTitle D_RBL" css-class="M_Padding">
                 <span style="font-weight:300">poste :</span> Gestionnaire Négociateur (sinistres)
             </mj-text>
@@ -113,7 +113,7 @@
         <mj-section background-color="#ffffff">
     <!--art 3a-->
         <mj-column width="200px" padding="8px">
-            <mj-image css-class="M_Padding" padding="0" fluid-on-mobile="true" src="src/img/EmAssurance02_042024.jpg" alt="Assistant(e) Conseiller(e) Commercial(e) en alternance" />
+            <mj-image css-class="M_Padding" padding="0" fluid-on-mobile="true" src="https://img.mailinblue.com/3403292/images/content_library/original/661cc147e0b69fbf8afb0fe8.jpg" alt="Assistant(e) Conseiller(e) Commercial(e) en alternance" />
             <mj-text mj-class="D_SousTitle D_RBL" css-class="M_Padding">
                 <span style="font-weight:300;">Poste : </span>Assistant(e) conseiller(e) commercial(e)
             </mj-text>
@@ -126,7 +126,7 @@
         </mj-column>
     <!--art 3b-->
         <mj-column width="200px" padding="8px">
-            <mj-image css-class="M_Padding" padding="0" fluid-on-mobile="true" src="src/img/EmAssurance04_042024.jpg" alt="Gestionnaire technique de contrats en alternance"/>
+            <mj-image css-class="M_Padding" padding="0" fluid-on-mobile="true" src="https://img.mailinblue.com/3403292/images/content_library/original/661cc152ad812a318f11ff26.jpg" alt="Gestionnaire technique de contrats en alternance"/>
             <mj-text mj-class="D_SousTitle D_RBL" css-class="M_Padding">
                 <span style="font-weight:300;">poste :</span> Gestionnaire technique de contrats
             </mj-text>
@@ -139,7 +139,7 @@
         </mj-column>
     <!--art 3c-->
         <mj-column width="200px" padding="8px">
-            <mj-image css-class="M_Padding" padding="0" fluid-on-mobile="true" src="src/img/EmAssurance01_042024.jpg" alt="conseiller en alternance" />
+            <mj-image css-class="M_Padding" padding="0" fluid-on-mobile="true" src="https://img.mailinblue.com/3403292/images/content_library/original/661cc158ad812a318f11ff27.jpg" alt="conseiller en alternance" />
             <mj-text mj-class="D_SousTitle D_RBL" css-class="M_Padding">  
                 <span style="font-weight:300;">poste :</span> Conseiller(e) 
             </mj-text>
