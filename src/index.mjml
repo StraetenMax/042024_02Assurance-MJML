@@ -1,6 +1,6 @@
 <mjml>
         <mj-head>
-        <mj-title>Annonces Alternce Ecosup Assurance</mj-title>
+        <mj-title>Annonces Alternance Ecosup Assurance</mj-title>
     <!--font-->
         <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" />
     <!--Bloquer Dark mode-->
@@ -44,34 +44,42 @@
         <mj-section background-color="#ffffff">
             <mj-column width="580px">
             <mj-text mj-class="D_Title D_RL">
-                <span style="font-weight:700">Ecosup Assurance</span> t'aide à vivre ton <span style="font-weight:700">apprentissage</span>
+                <span style="font-weight:700">Ecosup Assurance</span> assure ton avenir !
             </mj-text>
-            <mj-text mj-class="D_Text" padding-bottom="0">
-                - Tu as formalisé ton inscription sur <strong>Parcoursup</strong>...
-            </mj-text>
-            <mj-text mj-class="D_Text D_RL">
-                - Tu es intéressé par les <strong>métiers de l'Assurance</strong> et de la <strong>Banque</strong>...
+            <mj-text mj-class="D_Text">
+                <span style="font-weight:700">Ecosup Assurance</span> t'accompagne pour une formation de qualité !
             </mj-text>
             <mj-text mj-class="D_Text D_RL">
-                - Tu envisages une préparation en <strong>BTS Assurance</strong> ou <strong>Bachelor Chargé(e) de clientèles en Assurance et Banque</strong>...
+                Tu recherches un poste pour ton <span style="font-weight:700">alternance</span> en BTS ou Bachelor dans le domaine de la Banque - Assurance : profite de notre réseau de partenaires et de nombreux postes disponibles.
             </mj-text>
             <mj-text mj-class="D_Text" padding-bottom="0">
-                À <strong>ECOSUP Assurance</strong> nous te proposons de concrétiser ton projet en toute sérénité grâce à une <strong>formation en alternance</strong>.
-            </mj-text>
-            <mj-text mj-class="D_Text" padding-bottom="0">
-                À <strong>ECOSUP Assurance</strong> tu ne seras jamais seul pour ton apprentissage car nous travaillons avec des <strong>entreprises partenaires</strong> prêtes à t'accueillir et à te confier des missions valorisantes.  
-            </mj-text>
-            <mj-text mj-class="D_Text" padding-bottom="0">
-                Alors n'hésite pas à nous contacter et à découvrir quelques-unes des propositions de postes en <strong>apprentissage</strong>.
-            </mj-text>
-            <mj-text mj-class="D_Text" padding-bottom="0">
-                Tu as la volonté... nous avons le réseau !!!
+                À toi de jouer !
             </mj-text>
             <mj-button css-class="hover" href="https://forms.gle/7FAghZJoE6jPcTRj9">
                 contacte-moi
             </mj-button>
         </mj-column>
         </mj-section>
+         </mj-section>
+<!--Signature-->  
+        <mj-section background-color="#ffffff" padding-top="0">
+            <mj-group>
+            <mj-column width="50%" padding="8px">
+                <mj-image align="right" padding="0" src="https://img.mailinblue.com/3403292/images/content_library/original/6616fdc712fbe9e05adb2887.jpg"  width="110px" alt="Christian Annaloro, responsable pédagogique Ecosup Assurance" />
+            </mj-column>
+            <mj-column width="50%" padding="8px">
+                <mj-text padding="0" mj-class="D_Text">
+               <strong> Christian <span style="text-transform:uppercase">Annaloro</span></strong>
+                </mj-text>
+                <mj-text padding="0" mj-class="D_Text">
+                Responsable pédagogique
+                </mj-text>
+                <mj-text padding="0" mj-class="D_Text">
+                Ecosup Assurance
+                </mj-text>    
+                </mj-column>
+            </mj-group>
+                </mj-section>
     <!-- Article 2-->
         <mj-section background-color="#edf2f7">
     <!-- art 2a-->
@@ -83,7 +91,7 @@
             <mj-text mj-class="D_Text D_RBL" css-class="M_Padding">
                 <span style="text-transform:uppercase;font-weight:300">missions :</span> Assister les conseillers commerciaux dans le traitement des leads, les appels clients et l'organisation des rendez-vous. Mettre en oeuvre la communication digitale...
             </mj-text>
-            <mj-button css-class="hover M_Padding" href="https://ecosup-campus.fr/assistant-conseiller-commercial-outils-communication-digitaux">
+            <mj-button css-class="hover M_Padding" href="https://ecosup-assurance.fr/assistant-conseiller-commercial-outils-communication-digitaux">
                 ça m'intéresse
             </mj-button>
         </mj-column>
@@ -112,7 +120,7 @@
             <mj-text mj-class="D_Text D_RBL" css-class="M_Padding">
                 <span style="font-weight:300;text-transform:uppercase;">Missions :</span> Assister les conseillers commerciaux dans l'accueil du public. Faire des campagnes de relance et des appels clients afin d'organiser des rendez-vous...
             </mj-text>
-            <mj-button mj-class="D_RBL" css-class="hover M_Padding" href="https://ecosup-campus.fr/assistant-conseiller-commercial">
+            <mj-button mj-class="D_RBL" css-class="hover M_Padding" href="https://ecosup-assurance.fr/assistant-conseiller-commercial">
                 ça m'intéresse
             </mj-button>
         </mj-column>
@@ -142,7 +150,53 @@
                 ça m'intéresse
             </mj-button>
         </mj-column>
-            
+    </mj-section>
+     <!--Article 4-->
+        <mj-section background-color="#edf2f7">
+    <!--art 4a-->
+        <mj-column width="200px" padding="8px">
+            <mj-image css-class="M_Padding" padding="0" fluid-on-mobile="true" src="src/img/LetEmpAssu042024.jpg" alt="Assistant(e) Conseiller(e) Commercial(e) en alternance" />
+            <mj-text mj-class="D_SousTitle D_RBL" css-class="M_Padding">
+                <span style="font-weight:300;">Poste : </span>Conseiller(ère) clientèle
+            </mj-text>
+            <mj-text mj-class="D_Text D_RBL" css-class="M_Padding">
+                <span style="font-weight:300;text-transform:uppercase;">Missions :</span> vous rejoindrez l'équipe Centre de Relation Clientèle d'un grand groupe bancaire français dont la mission est d'analyser, contrôler et financer...
+            </mj-text>
+            <mj-button mj-class="D_RBL" css-class="hover M_Padding" href="https://ecosup-assurance.fr/conseiller-clientele">
+                ça m'intéresse
+            </mj-button>
+        </mj-column>
+    <!--art 4b-->
+        <mj-column width="200px" padding="8px">
+            <mj-image css-class="M_Padding" padding="0" fluid-on-mobile="true" src="src/img/Let03EmpAssu042024.jpg" alt="Gestionnaire technique de contrats en alternance"/>
+            <mj-text mj-class="D_SousTitle D_RBL" css-class="M_Padding">
+                <span style="font-weight:300;">poste :</span> Chargé(e) de clientèles professionnelles
+            </mj-text>
+            <mj-text mj-class="D_Text D_RBL" css-class="M_Padding">
+                <span style="font-weight:300;text-transform:uppercase">Missions :</span> nous vous proposons un poste à pourvoir en alternance pour la rentrée 2024 au sein de notre branche IARD-Risques d'entreprise...
+            </mj-text>
+            <mj-button mj-class="D_RBL" css-class="hover M_Padding" href="https://ecosup-assurance.fr/chargee-clienteles-professionnelles">
+                ça m'intéresse
+            </mj-button>
+        </mj-column>
+    <!--art 4c-->
+        <mj-column width="200px" padding="8px">
+            <mj-image css-class="M_Padding" padding="0" fluid-on-mobile="true" src="src/img/Let02EmpAssu042024.jpg" alt="conseiller en alternance" />
+            <mj-text mj-class="D_SousTitle D_RBL" css-class="M_Padding">  
+                <span style="font-weight:300;">poste :</span> Conseiller(ère) clientèle 
+            </mj-text>
+            <mj-text mj-class="D_Text D_RBL" css-class="M_Padding">
+                <span style="font-weight:300;text-transform:uppercase;">missions :</span> Vous rejoignez l'entité Résolution Client Spécifique dont la mission est de gérer l'ensemble des flux Relation Client...
+            </mj-text>
+            <mj-button mj-class="D_RBL" css-class="hover M_Padding" href="https://ecosup-assurance.fr/conseiller-clientele-2">
+                ça m'intéresse
+            </mj-button>
+        </mj-column>
+    </mj-section>
+        <mj-section mj-class="D_RL" background-color="#ffffff">
+            <mj-column width="600px" >
+                <mj-spacer height="25px"/>
+            </mj-column>
         </mj-section>
     <!--Footer-->
         <mj-section background-color="#edf2f7">
